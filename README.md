@@ -1,4 +1,4 @@
-<h2 align="left">Olá, sou Flávio Henrique (Henry)</h2>
+<h2 align="left">Seja bem vindo(a)! Sou Flávio Henrique (Henry)</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h5 align="left">Encontre-me nas redes sociais!!!</h5>
+<h5 align="left">Redes sociais!!!</h5>
 
 ###
 
